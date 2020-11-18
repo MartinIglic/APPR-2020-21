@@ -7,9 +7,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
-
+V projektni nalogi bom pridobil podatke o izkopu, predelavi in izvozu naravnih bogastev držav sveta, potem pa bom primerjal deleže koriščenja surovin po državah in poskušal najti povezave med uspešnim gospodarjenjem in dobrim življenjskim standardom. Za zaključek bi oblikoval politiko, kako je najbolje ravnati z naravnimi viri, predvsem glede na zmožnosti posamezne države. Podatke bom dobil iz spletnih strani https://www.usda.gov/ , https://ec.europa.eu/eurostat/home in https://pxweb.stat.si/SiStat/sl.
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`.
